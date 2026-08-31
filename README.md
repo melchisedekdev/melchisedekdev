@@ -1,189 +1,189 @@
 # Melchisedek Lima
 
-### AI Engineering Coordinator · Cybersecurity · Software Engineering
+### Coordenador de Engenharia de IA · Cibersegurança · Engenharia de Software
 
 <p align="left">
   <a href="https://www.linkedin.com/in/melchisedeksl">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/AI%20Engineering-111827?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-111827?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Engenharia%20de%20IA-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cibersegurança-111827?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Engenharia%20de%20Software-111827?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
-📍 Teresina, Piauí — Brazil
+📍 Teresina, Piauí — Brasil
 
-> **I build intelligent systems that are designed to work — and designed to be secure.**
+> **Construo sistemas inteligentes projetados para funcionar — e projetados para serem seguros.**
 
-I'm an **AI Engineer & Cybersecurity professional** focused on the intersection between **artificial intelligence, software engineering and application security**.
+Sou **Engenheiro de IA & Cibersegurança** com atuação focada na interseção entre **inteligência artificial, engenharia de software e segurança de aplicações**.
 
-Currently **AI Engineering Coordinator at Medsafe Brasil**, where I lead the team responsible for designing, building and evolving the company's AI products — and for the security architecture behind them.
+Atualmente **Coordenador de Engenharia de IA na Medsafe Brasil**, onde lidero o time responsável por conceber, construir e evoluir os produtos de IA da empresa — e a arquitetura de segurança por trás deles.
 
-My approach is simple:
+Minha abordagem é simples:
 
 ```text
-Build → Understand → Break → Secure → Improve
+Construir → Entender → Quebrar → Proteger → Melhorar
 ```
 
-I don't want AI to be just another API call in an application.
+Não quero que a IA seja apenas mais uma chamada de API dentro de uma aplicação.
 
-I want to understand the **architecture behind it, the attack surface around it, and the engineering required to make it reliable in production.**
+Quero entender a **arquitetura por trás dela, a superfície de ataque ao redor dela e a engenharia necessária para torná-la confiável em produção.**
 
 ---
 
-## What I do
+## O que eu faço
 
-### AI Engineering
+### Engenharia de IA
 
-* LLM applications
-* RAG architectures
-* AI agents
+* Aplicações com LLMs
+* Arquiteturas RAG
+* Agentes de IA
 * LangChain
-* OpenAI APIs
+* APIs da OpenAI
 * Python / FastAPI
-* AI workflow automation
-* Intelligent process optimization
+* Automação de fluxos com IA
+* Otimização inteligente de processos
 
-### Cybersecurity
+### Cibersegurança
 
 * OWASP Top 10
 * OWASP LLM Top 10
-* API Security
-* Secure Software Development
-* Code Security Auditing
-* Vulnerability Analysis
-* Security architecture for AI systems
+* Segurança de APIs
+* Desenvolvimento seguro de software
+* Auditoria de segurança de código
+* Análise de vulnerabilidades
+* Arquitetura de segurança para sistemas de IA
 
-### Engineering Leadership
+### Liderança Técnica
 
-* Technical coordination of an AI engineering team
-* Priority definition and delivery tracking
-* Architecture direction and technical governance
-* Code review and engineering standards
-* Technical mentoring across experience levels
+* Coordenação técnica de um time de engenharia de IA
+* Definição de prioridades e acompanhamento de entregas
+* Direcionamento de arquitetura e governança técnica
+* Code review e definição de boas práticas
+* Mentoria técnica em diferentes níveis de experiência
 
-### Software Engineering
+### Engenharia de Software
 
 * Java / Spring Boot
 * Python / FastAPI
 * Angular
 * React / TypeScript
 * PostgreSQL
-* REST APIs
-* Layered architectures
-* Database modeling
+* APIs REST
+* Arquitetura em camadas
+* Modelagem de banco de dados
 * Flyway
-* Webhooks & integrations
+* Webhooks & integrações
 
 ---
 
-## Impact > Lines of Code
+## Impacto > Linhas de código
 
-Some numbers from my professional journey:
+Alguns números da minha trajetória profissional:
 
-|         |                                                                    |
-| ------- | ------------------------------------------------------------------ |
-| **70%** | reduction in repetitive corporate tasks through AI automation      |
-| **25+** | vulnerabilities identified and remediated in a legacy system       |
-| **8**   | critical vulnerabilities found during security analysis            |
-| **4**   | strategic products currently supported/evolved                     |
-| **7**   | professionals mentored through technical guidance and code reviews |
+|         |                                                                     |
+| ------- | ------------------------------------------------------------------- |
+| **70%** | de redução em tarefas corporativas repetitivas via automação com IA |
+| **25+** | vulnerabilidades identificadas e corrigidas em um sistema legado    |
+| **8**   | vulnerabilidades críticas encontradas em análise de segurança       |
+| **4**   | produtos estratégicos mantidos e evoluídos atualmente               |
+| **7**   | profissionais mentorados com direcionamento técnico e code reviews  |
 
-These numbers are not the objective.
+Esses números não são o objetivo.
 
-**The objective is building systems that create measurable impact.**
-
----
-
-## Experience
-
-### AI Engineering Coordinator · Medsafe Brasil
-
-**Aug 2026 — Present** · Full-time · Hybrid
-
-Leading the AI Engineering team: technical and operational organization, priority definition, delivery tracking and evolution of the company's AI projects.
-
-* Coordinate a multidisciplinary team building and evolving AI solutions, directing technical priorities and solution architecture.
-* Structured a working model focused exclusively on AI projects, reducing team fragmentation across products and increasing delivery predictability.
-* Drive technical governance: code review, best practices, architecture analysis and delivery quality.
-* Responsible for the technical growth of the team — code reviews, technical direction and engineering best practices across all experience levels.
-* Evolve the company's AI portfolio: intelligent agents, corporate automation, operational support systems and products for healthcare and medical education.
-* Embed security into the AI development lifecycle — API security, code auditing and risk mitigation for LLM-based applications and agents.
-
-### AI Engineer & Cybersecurity · Medsafe Brasil
-
-**Jun 2026 — Present** · Full-time · On-site
-
-One of the founding engineers of the company's AI team, responsible for designing intelligent software and hardening the security architecture of every AI solution built by the engineering team.
-
-* Led development of an intelligent corporate process and routine management system using **Python, LLMs, LangChain, RAG and OpenAI APIs**, reducing repetitive operational tasks by approximately **70%**.
-* Conducted vulnerability analysis of a legacy system under **OWASP Top 10**, identifying and remediating **25+ vulnerabilities, including 8 critical issues**.
-* Built the protection layers of the company's autonomous AI agent, applying **OWASP LLM Top 10** guidelines.
-* Contribute to **4 strategic products in production**: process management platform, medical education system, oncology care platform and the intelligent agent.
-
-### Software Developer (Mid-level) · Medsafe Brasil
-
-**Mar 2026 — Jun 2026** · Full-time · Hybrid
-
-Took technical ownership of a production education platform after leading a critical payment gateway integration during my internship — the delivery that led to my promotion.
-
-* Led the complete structural migration of a production backend: language, framework, security layer and critical dependencies, with no regressions.
-* Designed and implemented webhook-based business automation, eliminating a manual process and enabling real-time access provisioning.
-* Coordinated the intern team throughout implementation: task distribution, code review and on-time delivery.
-* Built REST APIs with **Java / Spring Boot** in layered architecture, with domain validation and centralized exception handling.
-* Interfaces in **Angular and React**; **PostgreSQL** with schema versioning via **Flyway**.
-* Actively mentored **7 professionals**: day-to-day guidance, structured code review feedback and support in building engineering best practices.
-
-### Software Developer Intern · Medsafe Brasil
-
-**Jan 2026 — Mar 2026** · On-site
-
-Worked on a government healthcare system in active production, with direct impact on real patients.
-
-* Developed REST APIs with **Spring Boot** using layered architecture and centralized exception handling.
-* Built **Angular** modules for triage workflows, following strict business rules for asynchronous state handling and sensitive patient data in public healthcare.
-* Designed and built, on my own initiative, an internal engineering request-tracking tool that replaced spreadsheets and manual processes — adopted and used daily by the whole team.
-* Led a critical payment gateway integration, contributing directly to my promotion.
-
-### Software Developer (Junior) · ConfereAI
-
-**Aug 2025 — Jan 2026** · Contract · Hybrid
-
-Web application integrated with a facial-recognition attendance system, focused on a fluid, high-performance real-time experience.
-
-* Responsive interfaces with **React, TypeScript and Tailwind CSS**.
-* Built a modular, reusable project structure, optimizing loading and rendering of critical user-identification flows.
-* Owned the REST API integration layer: data synchronization and error handling for facial-recognition services; contributed to API contract definition.
-* Contributed to final delivery and production homologation, ensuring high-fidelity communication between the frontend and the biometrics microservices.
-
-### Systems Analyst & IT Instructor · Grau Técnico
-
-**Aug 2025 — Jan 2026** · Temporary · On-site
-
-Dual role: internal process automation and digital platform optimization, plus teaching applied Artificial Intelligence across professional tracks.
-
-* Designed and implemented payroll process automation, eliminating manual steps and reducing closing time and recurring calculation errors.
-* Improved performance and usability of the institutional website and the school management system.
-* Taught AI applied to Nursing, Radiology and Administration routines — translating technical concepts for non-technical audiences and connecting AI tools to real cases in each profession.
-
-### Full Stack Developer · Freelance
-
-**May 2022 — Jan 2026** · Remote
-
-End-to-end development of full stack web applications across personal, academic and freelance projects.
-
-* Complete architectures with **Spring Boot, Node.js and PostgreSQL**.
-* **Ellance System** — private B2B SaaS for dance studio management.
-* **DuoFinance** — financial management application for couples.
-* **TaskFlow Reports** — engineering request tracking.
-* **Learn&Play Redesign** — modernization of a legacy interface.
-* Full software lifecycle: requirements gathering with clients, database modeling, API integration and deploy.
+**O objetivo é construir sistemas que geram impacto mensurável.**
 
 ---
 
-## Tech Stack
+## Experiência
 
-### AI / Machine Learning
+### Coordenador de Engenharia de IA · Medsafe Brasil
+
+**ago/2026 — o momento** · Tempo integral · Híbrido
+
+Coordeno a equipe de Engenharia de Inteligência Artificial, com responsabilidade pela organização técnica e operacional do time, definição de prioridades, acompanhamento de entregas e evolução dos projetos de IA da empresa.
+
+* Coordeno uma equipe multidisciplinar responsável pelo desenvolvimento e evolução de soluções de IA, atuando na definição de prioridades técnicas, distribuição de demandas e direcionamento da arquitetura.
+* Estruturei uma abordagem de trabalho focada exclusivamente em projetos de IA, reduzindo a fragmentação da equipe entre produtos e estabelecendo maior previsibilidade nas entregas.
+* Atuo na governança técnica: revisão de código, definição de boas práticas, análise de arquitetura e acompanhamento da qualidade das entregas.
+* Responsável pelo acompanhamento técnico dos profissionais do time — code reviews, direcionamento técnico e disseminação de boas práticas de engenharia.
+* Evoluo o portfólio de soluções de IA da empresa: agentes inteligentes, automações corporativas, sistemas de apoio à operação e produtos de educação e saúde.
+* Integro práticas de segurança ao ciclo de desenvolvimento das soluções de IA — segurança de APIs, auditoria de código e mitigação de riscos em aplicações e agentes baseados em LLMs.
+
+### Engenheiro de IA & Cibersegurança · Medsafe Brasil
+
+**jun/2026 — o momento** · Tempo integral · Presencial
+
+Fui um dos engenheiros pioneiros na estruturação do time de IA da empresa, assumindo a missão de projetar softwares inteligentes e blindar a arquitetura de segurança de todas as soluções de IA desenvolvidas pelo time de engenharia.
+
+* Liderei o desenvolvimento de um sistema inteligente de gestão de processos e rotinas corporativas com **Python, LLMs, LangChain, RAG e APIs da OpenAI**, reduzindo em **70%** as tarefas repetitivas da empresa.
+* Conduzi análise de vulnerabilidades em um sistema legado sob a ótica do **OWASP Top 10**, identificando e corrigindo **mais de 25 falhas, sendo 8 críticas**.
+* Estruturei as camadas de proteção do agente autônomo próprio da empresa, aplicando as diretrizes do **OWASP LLM Top 10**.
+* Atuo na evolução de **4 projetos estratégicos em produção**: plataforma de gestão de processos, sistema de educação médica, plataforma de linha de cuidados em oncologia e a sustentação do agente inteligente.
+
+### Desenvolvedor de Software — Pleno · Medsafe Brasil
+
+**mar/2026 — jun/2026** · Tempo integral · Híbrido
+
+Assumi o ownership técnico de uma plataforma de ensino em produção após liderar, durante o estágio, uma integração crítica com gateway de pagamentos — entrega que resultou na minha promoção.
+
+* Conduzi a migração estrutural completa do backend de uma plataforma em produção: linguagem, framework, camada de segurança e dependências críticas, sem regressões.
+* Projetei e implementei uma integração de automação via webhooks, eliminando um processo manual e estabelecendo liberação de acesso em tempo real.
+* Coordenei a equipe de estagiários durante toda a implementação: distribuição de tarefas, code review e entrega dentro do prazo.
+* APIs REST com **Java / Spring Boot** em arquitetura em camadas, com validações de domínio e tratamento centralizado de exceções.
+* Interfaces em **Angular e React**; **PostgreSQL** com versionamento de schema via **Flyway**.
+* Orientei **7 profissionais** ativamente: acompanhamento no dia a dia, code reviews com feedback estruturado e apoio na construção de boas práticas.
+
+### Desenvolvedor de Software — Estágio · Medsafe Brasil
+
+**jan/2026 — mar/2026** · Presencial
+
+Atuei no desenvolvimento de um sistema governamental de saúde em produção ativa, com impacto direto em pacientes reais.
+
+* Desenvolvi APIs REST com **Spring Boot** em arquitetura em camadas e tratamento centralizado de exceções.
+* Construí módulos em **Angular** para fluxos de triagem, seguindo regras de negócio rigorosas para estados assíncronos e dados sensíveis de pacientes em saúde pública.
+* Projetei e desenvolvi por iniciativa própria uma ferramenta interna de gestão e rastreabilidade de demandas de engenharia, que eliminou planilhas e processos manuais — adotada e usada diariamente por toda a equipe.
+* Liderei uma integração crítica com gateway de pagamentos, contribuindo diretamente para minha promoção.
+
+### Desenvolvedor de Software — Júnior · ConfereAI
+
+**ago/2025 — jan/2026** · Autônomo · Híbrido
+
+Aplicação web integrada a um sistema de controle de presença por reconhecimento facial, com foco em uma experiência fluida e de alta performance em tempo real.
+
+* Interfaces responsivas com **React, TypeScript e Tailwind CSS**.
+* Implementei uma estrutura modular e reutilizável, otimizando o carregamento e a renderização dos fluxos críticos de identificação de usuários.
+* Responsável pela camada de integração com APIs REST: sincronização de dados e tratamento de erros nos serviços de reconhecimento facial; colaborei na definição dos contratos de API.
+* Contribuí para a entrega final e homologação em produção, garantindo alta fidelidade na comunicação entre o frontend e os microsserviços de biometria.
+
+### Analista de Sistemas & Instrutor de TI · Grau Técnico
+
+**ago/2025 — jan/2026** · Temporário · No local
+
+Atuação em frente dupla: automação de processos internos e otimização das plataformas digitais da unidade, além da docência de Inteligência Artificial aplicada a diferentes áreas profissionais.
+
+* Projetei e implementei uma automação do processo de folha de pagamento, eliminando etapas manuais, reduzindo o tempo de fechamento e minimizando erros recorrentes.
+* Conduzi melhorias de performance e usabilidade no site institucional e no sistema de gestão escolar.
+* Ministrei conteúdos de IA aplicada às rotinas de Enfermagem, Radiologia e Administração — traduzindo conceitos técnicos para públicos não-técnicos e conectando ferramentas de IA a casos reais de cada profissão.
+
+### Desenvolvedor Full Stack · Freelance
+
+**mai/2022 — jan/2026** · Remoto
+
+Desenvolvimento ponta a ponta de aplicações web full stack em projetos autorais, acadêmicos e freelances.
+
+* Arquiteturas completas com **Spring Boot, Node.js e PostgreSQL**.
+* **Ellance System** — SaaS B2B privado para gestão de estúdios de dança.
+* **DuoFinance** — aplicação de controle financeiro para casais.
+* **TaskFlow Reports** — rastreabilidade de chamados de engenharia.
+* **Redesign Learn&Play** — modernização de uma interface legada.
+* Ciclo completo do software: levantamento de requisitos com clientes, modelagem de banco, integração de APIs e deploy.
+
+---
+
+## Stack
+
+### IA / Machine Learning
 
 ```text
 Python
@@ -191,7 +191,7 @@ LLMs
 RAG
 LangChain
 OpenAI API
-AI Agents
+Agentes de IA
 FastAPI
 ```
 
@@ -203,7 +203,7 @@ Spring Boot
 Python
 FastAPI
 Node.js
-REST APIs
+APIs REST
 PostgreSQL
 ```
 
@@ -217,38 +217,38 @@ JavaScript
 Tailwind CSS
 ```
 
-### Security
+### Segurança
 
 ```text
 OWASP Top 10
 OWASP LLM Top 10
-API Security
-Secure Coding
-Code Auditing
-Vulnerability Analysis
+Segurança de APIs
+Código seguro
+Auditoria de código
+Análise de vulnerabilidades
 ```
 
-### Engineering
+### Engenharia
 
 ```text
-Software Architecture
-Domain Validation
-Database Modeling
+Arquitetura de software
+Validação de domínio
+Modelagem de dados
 Flyway
 Webhooks
-Code Review
-Technical Mentoring
+Code review
+Mentoria técnica
 ```
 
 ---
 
-## Selected Projects
+## Projetos selecionados
 
 ### Ellance System
 
-**B2B SaaS platform for dance studio management.**
+**Plataforma SaaS B2B para gestão de estúdios de dança.**
 
-Designed and developed the backend architecture, database and application workflows.
+Projetei e desenvolvi a arquitetura de backend, o banco de dados e os fluxos da aplicação.
 
 `Spring Boot` `PostgreSQL` `React`
 
@@ -256,9 +256,9 @@ Designed and developed the backend architecture, database and application workfl
 
 ### TaskFlow Reports
 
-**Engineering workflow and request-tracking platform.**
+**Plataforma de rastreabilidade de demandas de engenharia.**
 
-Built to improve visibility and traceability across software engineering processes.
+Construída para melhorar a visibilidade e o acompanhamento dos processos de engenharia de software.
 
 `Spring Boot` `PostgreSQL` `Angular`
 
@@ -266,104 +266,104 @@ Built to improve visibility and traceability across software engineering process
 
 ### DuoFinance
 
-**Mobile-first financial management app for couples.**
+**Aplicativo mobile-first de gestão financeira para casais.**
 
-Two partners manage their finances together in real time — shared goals with per-partner contributions, custom transaction categories, invite-code pairing and an installable PWA.
+Dois parceiros gerenciam as finanças juntos, em tempo real — metas compartilhadas com contribuições por parceiro, categorias customizadas, sistema de convite por código e PWA instalável.
 
-Data isolation is enforced at the database layer with **Row Level Security**: each couple only ever reaches its own rows, regardless of what the client sends.
+O isolamento dos dados é garantido na camada do banco com **Row Level Security**: cada casal só alcança as próprias linhas, independentemente do que o cliente enviar.
 
 `React` `TypeScript` `Supabase` `PostgreSQL (RLS)` `TanStack Query` `PWA`
 
 ---
 
-### AI Automation
+### Automação com IA
 
-**AI-powered corporate process automation.**
+**Automação de processos corporativos com inteligência artificial.**
 
-An intelligent assistant capable of analyzing, correcting and automating repetitive operational tasks.
+Assistente inteligente capaz de analisar, corrigir e automatizar tarefas operacionais repetitivas.
 
 `Python` `LLMs` `LangChain` `RAG` `OpenAI`
 
 ---
 
-## Engineering Philosophy
+## Filosofia de engenharia
 
 ```text
 ┌─────────────────────────────────────────────┐
 │                                             │
-│              SOFTWARE ENGINEERING           │
+│          ENGENHARIA DE SOFTWARE             │
 │                       │                     │
 │             ┌─────────┴─────────┐           │
 │             │                   │           │
-│            AI              SECURITY          │
+│            IA              SEGURANÇA        │
 │             │                   │           │
 │             └─────────┬─────────┘           │
 │                       │                     │
-│                  PRODUCTION                 │
+│                   PRODUÇÃO                  │
 │                                             │
 └─────────────────────────────────────────────┘
 ```
 
-I believe the next generation of software engineers will need to understand more than just how to **build AI systems**.
+Acredito que a próxima geração de engenheiros de software vai precisar entender mais do que apenas como **construir sistemas de IA**.
 
-They will need to understand how those systems can be:
+Vai precisar entender como esses sistemas podem ser:
 
-* attacked
-* manipulated
-* abused
-* misconfigured
-* exploited
-* monitored
-* hardened
+* atacados
+* manipulados
+* abusados
+* mal configurados
+* explorados
+* monitorados
+* endurecidos
 
-That's where **AI Engineering meets Cybersecurity**.
-
----
-
-## Currently focused on
-
-* AI Security
-* Secure AI Agents
-* LLM Security
-* RAG Security
-* Application Security
-* Offensive Security
-* AI Engineering
-* Software Architecture
-* Production-grade AI systems
+É aí que **Engenharia de IA encontra Cibersegurança**.
 
 ---
 
-## Education
+## Foco atual
 
-**Computer Science — UNINOVAFAPI (Afya)**
-Jun 2026 — Dec 2028
-
-**Computer Science — UNINASSAU**
-Feb 2025 — Jun 2026 · GPA 9.17
+* Segurança de IA
+* Agentes de IA seguros
+* Segurança de LLMs
+* Segurança de RAG
+* Segurança de aplicações
+* Segurança ofensiva
+* Engenharia de IA
+* Arquitetura de software
+* Sistemas de IA em produção
 
 ---
 
-## Certifications
+## Formação acadêmica
 
-| Certification | Issuer | Date |
+**Ciência da Computação — UNINOVAFAPI (Afya)**
+jun/2026 — dez/2028
+
+**Ciência da Computação — UNINASSAU**
+fev/2025 — jun/2026 · Nível de formação 9.17
+
+---
+
+## Licenças e certificados
+
+| Certificação | Emissor | Data |
 | --- | --- | --- |
-| Fundamentals of Modern AI: Machine Learning, LLMs, Generative AI and Agents | DIO | Jun 2026 |
-| Python for AI | Datalumina | Jun 2026 |
-| Software Engineering | FIAP | May 2026 |
-| Java Fundamentals | FIAP | Apr 2026 |
-| Introduction to Hacking and Pentest | Solyd Offensive Security | Feb 2026 |
-| CS50's Introduction to Cybersecurity | HarvardX | Jan 2026 |
-| Introduction to Artificial Intelligence with Python | HarvardX | Aug 2025 |
-| Intermediate Python for Data Analysis | Grupo Voitto | May 2025 |
-| Introduction to the Python Programming Language | Grupo Voitto | May 2025 |
-| Programming Logic | Grupo Voitto | Apr 2025 |
+| Fundamentos da IA Moderna: Machine Learning, LLMs, IA Generativa e Agentes | DIO | jun/2026 |
+| Python for AI | Datalumina | jun/2026 |
+| Engenharia de Software | FIAP | mai/2026 |
+| Java Fundamentos | FIAP | abr/2026 |
+| Introdução a Hacking e Pentest | Solyd Offensive Security | fev/2026 |
+| CS50's Introduction to Cybersecurity | HarvardX | jan/2026 |
+| Introduction to Artificial Intelligence with Python | HarvardX | ago/2025 |
+| Python Intermediário para Análise de Dados | Grupo Voitto | mai/2025 |
+| Introdução à Linguagem de Programação Python | Grupo Voitto | mai/2025 |
+| Lógica de Programação | Grupo Voitto | abr/2025 |
 
 ---
 
-## Writing & Ideas
+## Escrita & ideias
 
-I also write about the engineering side of technology, including:
+Também escrevo sobre o lado da engenharia por trás da tecnologia:
 
 * **Burnout em TI: O Lado Oculto da Área Mais Desejada do Mercado**
 * **A IA acelerou o código e os stakeholders aceleraram o prazo**
@@ -371,12 +371,12 @@ I also write about the engineering side of technology, including:
 
 ---
 
-## Let's build something worth breaking
+## Vamos construir algo que valha a pena quebrar
 
-If you're interested in:
+Se você tem interesse em:
 
-**AI Engineering · AI Security · Software Architecture · Cybersecurity · LLMs · RAG · Secure Systems**
+**Engenharia de IA · Segurança de IA · Arquitetura de Software · Cibersegurança · LLMs · RAG · Sistemas Seguros**
 
-feel free to connect with me.
+fique à vontade para se conectar comigo.
 
 [LinkedIn](https://www.linkedin.com/in/melchisedeksl)
